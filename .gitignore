@@ -1,2 +1,4 @@
 # Ignore datasets
 data/
+Multiregression Models/
+__pycache__/
